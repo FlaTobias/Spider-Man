@@ -35,7 +35,7 @@
   <a href="#rocket-technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">Como utilizar</a>
 
-## :rocket: Technologies
+## :rocket: Tecnologias
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -51,7 +51,7 @@ Você pode tentar aqui:
 
 -  [Spider-man: Miles Morales][demo]
 
-## :information_source: How to use
+## :information_source: Como utilizar
 
 Para clonar e executar este aplicativo, você precisará do Git instalado em seu computador. Da sua linha de comando:
 
@@ -66,7 +66,7 @@ $ cd spiderman
 ```
 
 <h4 align="center">
-    Feito com ♥ por Flavio Tobias 👋 <a href="https://www.linkedin.com/in/flaviotobias/" target="_blank">Get in touch!</a>
+    Feito com ♥ por Flavio Tobias 👋 <a href="https://www.linkedin.com/in/flaviotobias/" target="_blank">Entre em contato!</a>
 </h4>
 
 [vc]: https://code.visualstudio.com/
