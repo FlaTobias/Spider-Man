@@ -1,5 +1,7 @@
 <h1 align="center">
-    <img alt="Logo" src="img/spiderman-text.png" />
+   <a href="https://spiderman-flaviotobias.netlify.app/">
+	<img alt="Logo" src="img/spiderman-text.png" />
+	</a>
     <br>
 </h1>
 
@@ -47,7 +49,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## :eyes: Confira
 
-Você pode tentar aqui:
+Você pode acessar por aqui:
 
 -  [Spider-man: Miles Morales][demo]
 
