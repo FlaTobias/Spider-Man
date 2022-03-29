@@ -33,8 +33,7 @@
 
 <p align="center">
   <a href="#rocket-technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-how-to-use">Como utilizar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
+  <a href="#information_source-how-to-use">Como utilizar</a>
 
 ## :rocket: Technologies
 
